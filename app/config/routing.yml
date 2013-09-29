@@ -1,0 +1,11 @@
+jzk_core_user:
+    resource: "@JZKCoreUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
+#three_dots_demo:
+#    resource: "@ThreeDotsDemoBundle/Resources/config/routing.yml"
+#    prefix:   /
+
+jzk_core_app:
+    resource: "@JZKCoreAppBundle/Resources/config/routing.yml"
+    prefix:   /

@@ -1,0 +1,7 @@
+parameters:
+#    jzk_core_user.example.class: JZK\Bundle\Core\UserBundle\Example
+
+services:
+#    jzk_core_user.example:
+#        class: %jzk_core_user.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

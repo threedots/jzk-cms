@@ -11,3 +11,4 @@
 /composer.phar
 /web/.htaccess
 /.idea
+.DS_Store

@@ -1,6 +1,12 @@
 imports:
     - { resource: parameters.yml }
     - { resource: security.yml }
+    - { resource: image.yml }
+    - { resource: fos_user.yml }
+    - { resource: knp_time.yml }
+    - { resource: knp_paginator.yml }
+    - { resource: knp_menu.yml }
+    - { resource: knp_doctrine.yml }
 
 framework:
     #esi:             ~
